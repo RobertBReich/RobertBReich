@@ -1,5 +1,5 @@
-# Die Überschrift
-## Der Teaser 
+# Git / Github
+## first steps 
 
 About me, **Robert**
 
