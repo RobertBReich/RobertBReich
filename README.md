@@ -1,9 +1,7 @@
-# Git / Github
-## first steps 
+# Robert Reich 
+## Test Repository
 
-About me, **Robert**
-
-Die Liste
+### Die Liste
 - eins
 - zwei
 - drei
